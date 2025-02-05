@@ -3,7 +3,7 @@ import mysql.connector
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 # API Token for the bot that was created in BotFather
-API_TOKEN = '7670771467:AAH9Skw-LmgG24zOgRRMu6RSTQkLnyvcBow'
+API_TOKEN = ''
 
 # Creating a bot object
 bot = telebot.TeleBot(API_TOKEN)
